@@ -1,1 +1,8 @@
-I'm busy working. Come back again later and this message will still be here.
+```js
+// life.js
+try {
+    const engineer = new Developer({caffeine: true, bugs: false});
+} catch (error) {
+    console.log("Have you tried turning it off and on again?");
+}
+```
